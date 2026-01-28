@@ -20,6 +20,7 @@ Primeiros cuidados com responsividade
 Trabalho em equipe e colaboração
 
 Mais do que um exercício técnico, foi um projeto feito com cuidado e significado, tanto pelo tema quanto pelo momento em que foi desenvolvido.
+
 🛠️ Tecnologias utilizadas
 
 HTML5
